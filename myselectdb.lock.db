@@ -1,0 +1,6 @@
+#FileLock
+#Tue Feb 15 17:31:24 KST 2022
+hostName=localhost
+id=17efc81fe72be30b7144a2ee5d05df4118efe148b60
+method=file
+server=localhost\:51888
