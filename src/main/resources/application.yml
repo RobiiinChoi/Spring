@@ -8,11 +8,11 @@ spring:
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
     # DB Source
-    url: jdbc:mysql://localhost:3306/week1_homework?useSSL=false&allowPublicKeyRetrieval=true&serverTimezone=Asia/Seoul
+    url: jdbc:mysql://database-homeworkweek1.cbyqhfpxre3k.ap-northeast-2.rds.amazonaws.com:3306/myhomework?useSSL=false&allowPublicKeyRetrieval=true&serverTimezone=Asia/Seoul
     # DB username
-    username: root
+    username: adminadmin123123
     # DB password
-    password: test1234
+    password: Test1234
   jpa:
     hibernate:
       ddl-auto: update
