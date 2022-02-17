@@ -13,7 +13,7 @@
 | /api/{id}/comments        | POST   | 코멘트 작성      |
 | /api/comments/{commentId} | DELETE | 코멘트 삭제      |
 
-### API이미지 확인
+### 메인 기능 구현 이미지
 
 <details>
 <summary> 1. 전체목록 출력</summary>
